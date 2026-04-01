@@ -19,7 +19,7 @@ Users may initiate a data deletion request through the following methods:
 3. Follow the contact link to generate a pre-filled deletion request email.
 
 ### Method B: Email Request
-Users may email **legal@scorekings.com** with the subject line **"DATA DELETION REQUEST"**. Please include the email address associated with the account.
+Users may email **quintonlmills@gmail.com** with the subject line **"DATA DELETION REQUEST"**. Please include the email address associated with the account.
 
 ## 3. Processing Timeline
 * **Verification:** We will send a confirmation link to the registered email address to verify the request.
