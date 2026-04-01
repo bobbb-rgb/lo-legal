@@ -34,4 +34,4 @@ We may modify these Terms at any time. We will notify users of significant chang
 
 ## 9. Contact Information
 For questions regarding these Terms, please contact:
-**ScoreKings LLC Legal Department** [Insert Your Contact Email Here]
+**ScoreKings LLC Legal Department** quintonlmills@gmail.com
