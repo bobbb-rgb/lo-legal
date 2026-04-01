@@ -33,7 +33,7 @@ The security of your data is important to us, but remember that no method of tra
 
 ## 6. Data Deletion Rights
 In compliance with App Store and Play Store regulations, users have the right to request the deletion of their account and all associated telemetry data. 
-* To request data removal, please contact us at **legal@scorekings.com**. 
+* To request data removal, please contact us at **quintonlmills@gmail.com**. 
 * Requests will be processed within 30 days.
 
 ## 7. Service Providers
